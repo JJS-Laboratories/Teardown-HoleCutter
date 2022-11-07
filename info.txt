@@ -1,0 +1,4 @@
+name = Cutter
+author = JJS
+description = Adds a circular hole-cutting tool (this mod sucks btw lmao, first mod i ever made)
+tags = Tool
